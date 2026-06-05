@@ -1,1 +1,7 @@
-
+portfolio/
+├── index.html
+├── projects.html
+├── gallery.html
+├── reviews.html
+├── contact.html
+├── style.css
